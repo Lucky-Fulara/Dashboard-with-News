@@ -101,4 +101,4 @@ Development Scripts:
     1. git clone https://github.com/Lucky-Fulara/Dashboard-with-News.git
     2. cd Dashboard-with-News
     3. npm install
-    4. nmp start
+    4. npm start
